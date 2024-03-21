@@ -8,5 +8,10 @@ openssh-server
 authselect-compat
 qemu-guest-agent
 epel-release
-ansible
+qemu-kvm
+libvirt
+virt-manager
+virt-install
+git
+vim
 %end
